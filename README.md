@@ -13,31 +13,43 @@ Recebemos uma proposta onde o objetivo é desenvolver um site para o MVP (Produt
 
 </ul>
 <hr>
+<h2>▶️ Iniciando o projeto:</h2>
+
+```bash
+usar npm install para instalar o node modules e usar suas dependencias
+criar o banco de dados "jogos" 
+parear de novo a pasta back end 
+colocar node index.js para iniciar o servidor 
+fazer a mesma coisa para o front and 
+colocar 
+```
 <hr>
 
-<h1>👻 Entidades</h1>
+## 🚀 Dependencias:
 
-As entidades e seus relacionamentos são essenciais para a criação de um banco de dados bem projetado e funcional,
-permitindo que as aplicações possam armazenar e acessar dados de forma eficiente e eficaz. Desenvolvemos as seguintes
-entidades:
+ <h3> Dependencias back and </h3> 
+ <br>
 
-<h3> Entidades do Banco de Dados: </h3>
-<ul>
-<li>jogos_jogados</li>
-<li>lista_interesse</li>
+<ul> 
+    <li>🖥️ Cors ;</li>
+    <li>🐱‍👤 Sequelize;</li>
+    <li>🟢 Dotenv;</li>
+    <li>🚅 Express;</li>
+    <li>🗄️ MySQL2;</li>
+    <li>📦 Nodemon;</li>
 </ul>
 
-## 🚀 Tecnologias:
+<h3> Dependencias front and </h3> 
+ <br>
 
-<ul>
-    <li>🖥️ Visual Studio Code;</li>
-    <li>🐱‍👤 GitHub;</li>
-    <li>🟢 Node.js;</li>
-    <li>🚅 Express;</li>
-    <li>📋 MySQL</li>
-    <li>🗄️ MySQL2;</li>
-    <li>👿 Dotenv;</li>
-    <li>📦 NPM para instalação de pacotes;</li>
+<ul> 
+    <li>🖥️ Axios;</li>
+    <li>🐱‍👤 Bootstrap;</li>
+    <li>🟢 React;</li>
+    <li>🚅 React-dom;</li>
+    <li>🗄️ React-icons;</li>
+    <li>📦 React-modal;</li>
+    <li>👿 React-router-dom;</li>
 </ul>
 
 <hr>
