@@ -6,7 +6,7 @@ Recebemos uma proposta onde o objetivo é desenvolver um site para o MVP (Produt
 <br><br>
 
 ## :robot: Tema
-<p>Após uma reunião envolvendo os membros da equipe de desenvolvimento foi decidido que o tema a ser abordado em nosso projeto seria uma <b>lista de jogos</b>. Cada integrante do grupo participou ativamente no processo de criação do banco de dados, dando sugestões e implementando as informações dentro de cada entidade.</p>
+<p>Após uma reunião envolvendo os membros da equipe de desenvolvimento foi decidido que o tema a ser abordado em nosso projeto seria um <b>caderno de jogos</b>. Cada integrante do grupo participou ativamente no processo de criação do banco de dados, dando sugestões e implementando as informações dentro de cada entidade.</p>
 
 <br>
 
@@ -16,18 +16,25 @@ Recebemos uma proposta onde o objetivo é desenvolver um site para o MVP (Produt
 <h2>▶️ Iniciando o projeto:</h2>
 
 ```bash
-usar npm install para instalar o node modules e usar suas dependencias
-criar o banco de dados "jogos" 
-parear de novo a pasta back end 
-colocar node index.js para iniciar o servidor 
-fazer a mesma coisa para o front and 
-colocar npm run dev
+abra dois prompt node (um pro backend e um pro frontend)
+mapeie as pastas onde você deixou os arquivos
+entre nas pastas de backend e frontend
+digite: npm install
+assim o node_modules e as depêndencias serão instaladas
+
+BACKEND: 
+digite: node index.js
+
+FRONTEND: 
+entre na pasta 'src'
+digite: npm run dev
+
 ```
 <hr>
 
 ## 🚀 Dependencias:
 
- <h3> Dependencias back and </h3> 
+ <h3> Dependencias backend </h3> 
  <br>
 
 <ul> 
@@ -39,7 +46,7 @@ colocar npm run dev
     <li>📦 Nodemon;</li>
 </ul>
 
-<h3> Dependencias front and </h3> 
+<h3> Dependencias frontend </h3> 
  <br>
 
 <ul> 
@@ -57,7 +64,7 @@ colocar npm run dev
 <h2>📐 Desenvolvedores: </h2>
 <br>
 
-<p>👾 <a href="https://github.com/liracas">Cassiano Lira</a> (Co-Facilitador) </p> 
+<p>👾 <a href="https://github.com/liracass">Cassiano Lira</a> (Co-Facilitador) </p> 
 <p>👾 <a href="https://github.com/Yur1sz">Yuri Nunes</a> (Gestor de conhecimento) </p>
 <p>👾 <a href="https://github.com/rafaellecardoso">Rafaelle Cardoso</a> (Gestora de conflitos) </p>
 <p>👾 <a href="https://github.com/DragonStar97">Caio Morais</a> (Colaborador)</p>
