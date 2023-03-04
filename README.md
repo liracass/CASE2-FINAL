@@ -1,4 +1,4 @@
-<h1 align="center"> CASE2 👨‍💻</h1>
+<h1 align="center"> CASE 2 👨‍💻</h1>
 
 ## 📌 Sobre o Projeto
 Projeto final em grupo do resilia. 
@@ -16,7 +16,8 @@ Recebemos uma proposta onde o objetivo é desenvolver um site para o MVP (Produt
 <h2>▶️ Iniciando o projeto:</h2>
 
 ```bash
-abra dois prompt node (um pro backend e um pro frontend)
+clone o repositório
+abra 2 prompt node (um pro backend e um pro frontend)
 mapeie as pastas onde você deixou os arquivos
 entre nas pastas de backend e frontend
 digite: npm install
@@ -38,7 +39,7 @@ digite: npm run dev
  <br>
 
 <ul> 
-    <li>🖥️ Cors ;</li>
+    <li>🖥️ Cors;</li>
     <li>🐱‍👤 Sequelize;</li>
     <li>🟢 Dotenv;</li>
     <li>🚅 Express;</li>
